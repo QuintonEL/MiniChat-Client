@@ -1,6 +1,22 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# MiniChat
+
+A Realtime Chat Application built using Socket.io, Node.js, and React.js.
+
+Client side deployed on [Netlify](https://chat-app-ql.netlify.com/) and server side deployed on [Heroku](https://chat-app-ql.herokuapp.com/)
+
+## Screenshots
+
+![Home](https://github.com/QuintonEL/Chat-App-Client/blob/master/docs/Home.png?raw=true)
+
+Talk in realtime with your friends
+![Chat](https://github.com/QuintonEL/Chat-App-Client/blob/master/docs/Chat.png?raw=true)
+
+![Chat2](https://github.com/QuintonEL/Chat-App-Client/blob/master/docs/Chat2.png?raw=true)
+
+
 
 ## Available Scripts
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
