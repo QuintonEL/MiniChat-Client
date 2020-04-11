@@ -1,3 +1,18 @@
+.title {
+    display: inline;
+    position: relative;
+    font: 200px Helvetica, Sans-Serif;
+    letter-spacing: -5px;
+    color: rgba(153, 0, 255, 0.5); 
+    margin-left: -180px;
+  }
+  
+  .title:after {
+    content: "MiniChat";
+    position: absolute; left: 10px; top: 5px;
+    color: rgba(0, 247, 255, 0.5);   
+  }
+
 html, body {
   font-family: 'Roboto', sans-serif;
   padding: 0;
@@ -39,10 +54,10 @@ html, body {
 }
 
 .button {
-    color: #fff !important;
+    color: rgb(0, 0, 0) !important;
     text-transform: uppercase;
     text-decoration: none;
-    background: #2979FF;
+    background: rgb(0, 247, 255);
     padding: 20px;
     border-radius: 5px;
     display: inline-block;
